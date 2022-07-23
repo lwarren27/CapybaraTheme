@@ -1,2 +1,2 @@
 # CapybaraTheme
-A BetterDiscord theme for capybara enthusiasts.
+A theme that pulls up.
